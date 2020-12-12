@@ -1,15 +1,3 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    Makefile                                           :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: gmarva <gmarva@student.21-school.ru>       +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2020/05/06 13:04:33 by gmarva            #+#    #+#              #
-#    Updated: 2020/05/26 14:22:19 by gmarva           ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
-
 NAME = libft.a
 FILES_C = ft_memset.c ft_bzero.c ft_memcpy.c ft_memmove.c ft_memchr.c \
 		  ft_memccpy.c ft_memcmp.c ft_strlen.c ft_strlcpy.c ft_strlcat.c\
